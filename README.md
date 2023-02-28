@@ -1,2 +1,2 @@
-# ATM-Iterface-
+# ATM-Interface-
 Atm Interface using Java
